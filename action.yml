@@ -1,4 +1,4 @@
-name: Jira Issue Transition
+name: Lotus Jira Issue Transition
 description: Change status of specific Jira issue
 branding:
   icon: 'chevron-right'
